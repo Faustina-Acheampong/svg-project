@@ -1,15 +1,16 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
     width="400" height="400" enable-background="0 0 400 400" viewbox="0 0 400 400" xml:space="preserve">
     <symbol id="credit-card" viewbox="0 0 400 400">
-    <rect width="220" height="140" x="10" y="10" rx="20" ry="20" fill="gold"/>
-    <rect width="220" height="30" x="10" y="30" fill="grey"/>
-    <line x1="30" y1="75" x2="65" y2="75" stroke-width="7" stroke="white" stroke-linecap="round"/>
-    <line x1="83" y1="75" x2="118" y2="75" stroke-width="7" stroke="white" stroke-linecap="round"/>
-    <line x1="30" y1="90" x2="35" y2="90" stroke-width="7" stroke="white" stroke-linecap="round"/>
-    <line x1="50" y1="90" x2="60" y2="90" stroke-width="7" stroke="white" stroke-linecap="round"/>
-    <line x1="75" y1="90" x2="80" y2="90" stroke-width="7" stroke="white" stroke-linecap="round"/>
-    <line x1="95" y1="90" x2="105" y2="90" stroke-width="7" stroke="white" stroke-linecap="round"/>
-    <circle cx="120" cy="90" r="4" fill="white"/>
-    <circle cx="170" cy="120" r="17" fill="red"/>
+        <rect width="220" height="140" x="10" y="10" rx="20" ry="20" fill="gold"/>
+        <rect width="220" height="30" x="10" y="30" fill="grey"/>
+        <line x1="30" y1="75" x2="65" y2="75" stroke-width="7" stroke="white" stroke-linecap="round"/>
+        <line x1="83" y1="75" x2="118" y2="75" stroke-width="7" stroke="white" stroke-linecap="round"/>
+        <line x1="30" y1="90" x2="35" y2="90" stroke-width="7" stroke="white" stroke-linecap="round"/>
+        <line x1="50" y1="90" x2="60" y2="90" stroke-width="7" stroke="white" stroke-linecap="round"/>
+        <line x1="75" y1="90" x2="80" y2="90" stroke-width="7" stroke="white" stroke-linecap="round"/>
+        <line x1="95" y1="90" x2="105" y2="90" stroke-width="7" stroke="white" stroke-linecap="round"/>
+        <circle cx="120" cy="90" r="4" fill="white"/>
+        <circle cx="170" cy="110" r="17" fill="red"/>
+        <circle cx="190" cy="110" r="17" fill="blue"/>
     </symbol>
 </svg>
