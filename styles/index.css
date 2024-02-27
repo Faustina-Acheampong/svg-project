@@ -1,7 +1,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    margin: 30px;
+    margin: 20px;
       
 }
 
@@ -11,7 +11,33 @@ body {
     text-align: center;
 }
 
-.svg-images {
-    line-height: 30px;
+.sceptic {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    animation-name: sceptic;
+    animation-duration: 5s;
+    animation-iteration-count: 2;
 }
-enable-background="0 0 300 300"
+@keyframes sceptic {
+    0% {left:0px; top:0px;}
+    50% {left:700px; top:0px;}
+    100% {left:0px; top:0px;}
+}
+
+.envelope {
+    width: 300px;
+    height: 300px;
+    transition: all 2s ease-in-out 2s;
+}
+.envelope:hover {
+    transform: rotate(180deg);
+}
+
+.youtube{
+    margin-bottom: 100px;
+}
+
+.credit-card {
+    margin-bottom: 100px;
+}
