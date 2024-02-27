@@ -5,12 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/normalize.css">
     <link rel="stylesheet" href="styles/index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <title>SVG-Animation</title>
 </head>
 <body>
     <main>
         <div class="header-container">
-            <h1>SVG Icons and Animations</h1>
+            <h1 class="animate__animated animate__pulse animate__infinite">SVG Icons and Animations</h1>
+        </div>
+        <div class="envelope">
+            <svg width="300" height="300"  xmlns="http://www.w3.org/2000/svg">
+                <rect width="180" height="140" x="10" y="10" rx="5" ry="5" stroke="black" stroke-width="15" fill="white"/>
+                <polyline points="10,10 100,80 100,80 190,10" stroke="black" stroke-width="15" fill="none"/>
+            </svg>
         </div>
         <div class="sceptic">    
             <svg width="300" height="300"  xmlns="http://www.w3.org/2000/svg">
@@ -18,12 +25,6 @@
                 <circle cx="70" cy="70" r="12" fill="brown" opacity="0.5"/>
                 <circle cx="130" cy="70" r="12" fill="brown" opacity="0.5"/>
                 <line x1="60" y1="140" x2="140" y2="140" stroke="gold" stroke-width="5" stroke-linecap="round"/>
-            </svg>
-        </div>
-        <div class="envelope">
-            <svg width="300" height="300"  xmlns="http://www.w3.org/2000/svg">
-                <rect width="180" height="140" x="10" y="10" rx="5" ry="5" stroke="black" stroke-width="15" fill="white"/>
-                <polyline points="10,10 100,80 100,80 190,10" stroke="black" stroke-width="15" fill="none"/>
             </svg>
         </div>
         <div class="glass">
@@ -37,12 +38,13 @@
                 <use href="images/youtube.svg#youtube-icon"></use>
             </svg>
         </div>
-        <div class="clock">   
+        <div class="clock animate__animated animate__bounce animate__infinite">   
             <svg width="300" height="300"  xmlns="http://www.w3.org/2000/svg">
                 <circle cx="100" cy="100" r="90" fill="black"/>
                 <line x1="60" y1="100" x2="100" y2="100" stroke="white" stroke-width="15" stroke-linecap="round"/>
                 <line x1="100" y1="100" x2="100" y2="50" stroke="white" stroke-width="15" stroke-linecap="round"/>
-            </svg>    
+            </svg>
+        </div>       
         <div class="pyramid">
             <svg width="320" height="320"  xmlns="http://www.w3.org/2000/svg">
                 <polygon points="0,0 180,0 180,0 90,180 90,180 0,0 0,0 90,60 90,60 180,0 90,60 90,180" style="stroke:black;stroke-width:5;fill:none"/> 
