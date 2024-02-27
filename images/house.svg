@@ -1,6 +1,6 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-    width="500" height="500" enable-background="0 0 500 500" viewbox="0 0 500 500" xml:space="preserve">
-    <symbol id="house" viewbox="0 0 500 500">
+    width="300" height="300"  viewbox="0 0 300 300" xml:space="preserve">
+    <symbol id="house" viewbox="0 0 300 300">
         <line x1="5" y1="50" x2="110" y2="0" stroke="black" stroke-width="10" stroke-linecap="round"/>
         <line x1="110" y1="0" x2="220" y2="50" stroke="black" stroke-width="10" stroke-linecap="round"/>
         <line x1="15" y1="65" x2="15" y2="140" stroke="black" stroke-width="10" stroke-linecap="round"/>
