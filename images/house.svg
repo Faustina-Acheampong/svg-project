@@ -1,0 +1,14 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+    width="500" height="500" enable-background="0 0 500 500" viewbox="0 0 500 500" xml:space="preserve">
+    <symbol id="house" viewbox="0 0 500 500">
+        <line x1="5" y1="50" x2="110" y2="0" stroke="black" stroke-width="10" stroke-linecap="round"/>
+        <line x1="110" y1="0" x2="220" y2="50" stroke="black" stroke-width="10" stroke-linecap="round"/>
+        <line x1="15" y1="65" x2="15" y2="140" stroke="black" stroke-width="10" stroke-linecap="round"/>
+        <line x1="15" y1="140" x2="85" y2="140" stroke="black" stroke-width="10" stroke-linecap="round"/>
+        <line x1="85" y1="140" x2="85" y2="110" stroke="black" stroke-width="10" stroke-linecap="round"/>
+        <line x1="85" y1="110" x2="135" y2="110" stroke="black" stroke-width="10" stroke-linecap="round"/>
+        <line x1="135" y1="110" x2="135" y2="140" stroke="black" stroke-width="10" stroke-linecap="round"/>
+        <line x1="135" y1="140" x2="210" y2="140" stroke="black" stroke-width="10" stroke-linecap="round"/>
+        <line x1="210" y1="140" x2="210" y2="65" stroke="black" stroke-width="10" stroke-linecap="round"/>
+    </symbol>
+    </svg>
